@@ -1,5 +1,4 @@
-### Hi there 👋
-<img="perfil github imagem ceu.png">
+### Hi there 👋 img=C:\Users\usr\Documents\GitHub\jonesfernandes\perfil github imagem ceu.png
 
 
 
@@ -17,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
