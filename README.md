@@ -1,4 +1,4 @@
-### Olá, Sou Jones Fernandes!
+### Olá, eu sou o Jones Fernandes!
 
              
 <div align="center">
