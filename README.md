@@ -1,5 +1,6 @@
 ### Hi there ! Sou Jones Fernandes
 
-< a href = " https://github.com/jonesfernandes " >
+< div align = "centro" >
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesfernandes&layout=compact&langs_count=7&theme=dracula"/>
+  <a href = " https://github.com/jonesfernandes " >
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesfernandes&layout=compact&langs_count=7&theme=dracula"/>
