@@ -4,7 +4,7 @@
   <br>
    📫 E-mail para contato: jones3602a@gmail.com  <a href = "mailto:jones3602a@gmail.com" >
   </h5>
-   #  
+   
   <h3>🛠️ GitHub Stats</h3>             
 <div align="center">
   <a href = " https://github.com/jonesfernandes " >
