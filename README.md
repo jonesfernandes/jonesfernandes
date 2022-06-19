@@ -4,7 +4,7 @@
   #
   💻 Estudante de JavaScript, HTML e CSS
   <br>
-  📫 E-mail para contato:  <a href = "mailto:jones3602a@gmail.com">
+  📫 E-mail para contato:  <a href = "mailto:jones3602a@gmail.com" u=jones3602a@gmail.com>
   #
   
   <h3>🛠️ GitHub Stats</h3>             
