@@ -1,6 +1,8 @@
 <b><h1>Jones Fernandes<h1/></b>
 <a href="https://www.linkedin.com/in/jones-fernandes-74612657/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  # 💻 Estudante de JavaScript, HTML e CSS
+  #<h6> 💻 Estudante de JavaScript, HTML e CSS
+   📫 E-mail para contato: jones3602a@gmail.com  <a href = "mailto:jones3602a@gmail.com" >
+  </h6>
   <br>
   📫 E-mail para contato: jones3602a@gmail.com  <a href = "mailto:jones3602a@gmail.com" >
   #
